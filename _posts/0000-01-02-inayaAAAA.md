@@ -1,3 +1,4 @@
+---
 layout: slides
 title: "This is our second slide!"
 ---
